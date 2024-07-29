@@ -10,7 +10,6 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
 	<h1 style="color: sky; font-size: 40px;" align="center">WE DIDI IT</h1>
-	<h1 style="color: sky; font-size: 40px;" align="center">welcome back</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">Lakshmi is Back</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">hello hi manju</h1>
 	
